@@ -1,0 +1,10 @@
+{
+  "name": "Grok Build",
+  "short_name": "Grok Build",
+  "description": "Cloud IDE with AI-assisted coding",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "orientation": "any"
+}
